@@ -1,6 +1,0 @@
-{
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "Public_Plugin_1",
-  "version": "1.0.0",
-  "description": "A test plugin containing a code review skill.",
-}
